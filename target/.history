@@ -1,0 +1,15 @@
+console
+quit
+exit
+eclipse
+ls
+:quit
+:q
+exit
+test: runMain AtpCsvMain
+test:runMain AtpCsvMain
+test:runMain AtpCsv AtpCsvMain
+exit
+sbt clean
+clean
+exit
